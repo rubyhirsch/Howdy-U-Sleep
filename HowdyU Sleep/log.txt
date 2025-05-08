@@ -1,10 +1,10 @@
-2025-04-22 02:34:14 UTC
+2025-05-08 20:27:39 UTC
 macOS-13.5-arm64-arm-64bit
 Ren'Py 8.2.3.24061702
 
 Early init took 0.04s
 Loading error handling took 0.03s
-Loading script took 0.06s
+Loading script took 0.08s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.03s
@@ -27,3 +27,17 @@ Save screen analysis took 0.00s
 Prepare screens took 0.05s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.87s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1710, 1107)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Apple'"
+Renderer: b'Apple M2'
+Version: b'2.1 Metal - 83.1'
+Display Info: None
+Screen sizes: virtual=(2560, 1440) physical=(1608, 904) drawable=(3216, 1808)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
