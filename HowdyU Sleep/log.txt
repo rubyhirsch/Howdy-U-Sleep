@@ -1,10 +1,10 @@
-2025-05-08 20:27:39 UTC
+2025-05-08 20:50:44 UTC
 macOS-13.5-arm64-arm-64bit
 Ren'Py 8.2.3.24061702
 
-Early init took 0.04s
+Early init took 0.05s
 Loading error handling took 0.03s
-Loading script took 0.08s
+Loading script took 0.10s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.03s
@@ -12,6 +12,7 @@ Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.01s
 Index archives took 0.00s
+Backing up script files to '/Users/rubyhirsch/Library/RenPy/backups/HowdyU Sleep':
 Dump and make backups took 0.04s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
@@ -21,14 +22,14 @@ Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.02s
 Build styles took 0.00s
-Load screen analysis took 0.02s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
 Prepare screens took 0.05s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.87s
+Interface start took 0.23s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1710, 1107)
@@ -38,6 +39,5 @@ Vendor: "b'Apple'"
 Renderer: b'Apple M2'
 Version: b'2.1 Metal - 83.1'
 Display Info: None
-Screen sizes: virtual=(2560, 1440) physical=(1608, 904) drawable=(3216, 1808)
-Could not open 'cache/shaders.txt':
+Screen sizes: virtual=(2560, 1440) physical=(1607, 904) drawable=(3214, 1808)
 Maximum texture size: 4096x4096
